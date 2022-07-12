@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## personal config ##
+
+# install dependencies #
+ npm install 
+
+# install storybook from scratch 
+npx storybook init
+
+# run storybook
+npm run storybook
+
+# run alternatives
+yarn storybook
+
+# agregar archivo de css en preview como un import
+
+# uso de PropTypes en js
+import tante para auto documentar y verificar los inputs que necesita el componente (mejor ts)
+
+# revisar pruebas instantaneas !!!
